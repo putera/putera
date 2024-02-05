@@ -1,5 +1,5 @@
 ### Hi there 👋
-### The name is Zulkifli Mohamed and mostly they call me zack or putera in Malay. "Putera" means prince.
+The name is Zulkifli Mohamed and mostly they call me zack or putera in Malay. "Putera" means prince.
 
 Get to know me:
 
@@ -8,5 +8,8 @@ Get to know me:
 - 💬 Ask me about anything
 - 📫 How to reach me: @mrputera on X
 - ⚡ Fun fact: Joker
+
+Technologies & tools 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,vue,flutter,nodejs,mysql,php,laravel,tailwindcss,alpinejs)](https://skillicons.dev)
 
 Hey Siri, say hi to me !
