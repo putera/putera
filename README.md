@@ -7,7 +7,7 @@ Get to know me:
 - 🌱 I’m currently learning AI and IoT
 - 💬 Ask me about anything
 - 📫 How to reach me: @mrputera on X
-- ⚡ Fun fact: Joker
+- ⚡ Fun fact: Joker and I like to fishing nowadays 🎣
 
 Technologies & tools
 
